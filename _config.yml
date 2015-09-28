@@ -2,7 +2,7 @@ title:            CLIL-based learning
 description:      Project based learning website-containing CLIL based exercises
 disqus_shortname: 
 reading_time:     true
-words_per_minute: 150
+words_per_minute: 100
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 url: 
@@ -11,20 +11,20 @@ url:
 owner:
   name:           Rick Groenbroek and Frank Uijtendaal
   avatar:         avatar.jpg
-  bio:            "Just some students trying to make something interesting."
+  bio:            "One website dedicated to PBL and CLIL"
   email:          info@rgroenbroek.nl
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        RickGroenbroek
-  facebook:       
-  pinterest:      RickGroenbroek
+  twitter:        frankenrickclil
+  facebook:       frankenrickclil
+  pinterest:      frankenrickclil
   github:         
   stackexchange:  
-  linkedin:       
-  instagram:      rickgreenpants
+  linkedin:       frankenrickclil
+  instagram:      frankenrickclil
   flickr:         
-  tumblr:         
+  tumblr:         frankenrickclil
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    
+  google_plus:    +frankenrickclil
 
 # Background image to be tiled on all pages
 background: 
