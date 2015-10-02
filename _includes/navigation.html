@@ -52,45 +52,75 @@
 				<li><a href="{{ site.url }}/exercises/">Individual exercises</a></li>
 			</ul>
 		</li>
+		
 		<li>
 			<a href="#">Projects</a>
 			<ul class="dl-submenu">
-						<li><a href="{{ site.url }}/commerce/">Commerce</a></li>
-						<li><a href="{{ site.url }}">Healthcare</a></li>
+                <li><a href="#">Commerce</a>
+					<ul class="dl-submenu">
+						<li><a href="#">Introduction</a></li>
+						<li><a href="#">Task</a></li>
+						<li><a href="#">Process</a></li>
+						<li><a href="#">Evaluation</a></li>
+						<li><a href="#">Conclusion</a></li>
+						<li><a href="#">Teacher page</a></li>
+					</ul>
+		        </li>
+				<li><a href="#">Healthcare</a></li>
+					<ul class="dl-submenu">
+						<li><a href="#">Introduction</a></li>
+						<li><a href="#">Task</a></li>
+						<li><a href="#">Process</a></li>
+						<li><a href="#">Evaluation</a></li>
+						<li><a href="#">Conclusion</a></li>
+						<li><a href="#">Teacher page</a></li>
+					</ul>
+				<li><a href="#">Defence</a></li>
+					<ul class="dl-submenu">
+						<li><a href="#">Introduction</a></li>
+						<li><a href="#">Task</a></li>
+						<li><a href="#">Process</a></li>
+						<li><a href="#">Evaluation</a></li>
+						<li><a href="#">Conclusion</a></li>
+						<li><a href="#">Teacher page</a></li>
+					</ul>
 			</ul>
 		</li>
-		<li>
-			<a href="#">Webquests</a>
+		
+        <li>
+			<a href="#">Webquest</a>
 			<ul class="dl-submenu">
-			    <li><a href="{{ site.url }}/commerce/">Commerce</a></li>
-				<li><a href="{{ site.url }}/healthcare/">Healthcare</a></li>
+				<li><a href="#">Commerce</a>
+					<ul class="dl-submenu">
+						<li><a href="#">Introduction</a></li>
+						<li><a href="#">Task</a></li>
+						<li><a href="#">Process</a></li>
+						<li><a href="#">Evaluation</a></li>
+						<li><a href="#">Conclusion</a></li>
+						<li><a href="#">Teacher page</a></li>
+					</ul>
+		        </li>
+				<li><a href="#">Healthcare</a></li>
+					<ul class="dl-submenu">
+						<li><a href="#">Introduction</a></li>
+						<li><a href="#">Task</a></li>
+						<li><a href="#">Process</a></li>
+						<li><a href="#">Evaluation</a></li>
+						<li><a href="#">Conclusion</a></li>
+						<li><a href="#">Teacher page</a></li>
+					</ul>
+				<li><a href="#">Defence</a></li>
+					<ul class="dl-submenu">
+						<li><a href="#">Introduction</a></li>
+						<li><a href="#">Task</a></li>
+						<li><a href="#">Process</a></li>
+						<li><a href="#">Evaluation</a></li>
+						<li><a href="#">Conclusion</a></li>
+						<li><a href="#">Teacher page</a></li>
+					</ul>
 			</ul>
 		</li>
 
-		
-<li>
-										<a href="#">Bedroom</a>
-										<ul class="dl-submenu">
-											<li>
-												<a href="#">Beds</a>
-												<ul class="dl-submenu">
-													<li><a href="#">Upholstered Beds</a></li>
-													<li><a href="#">Divans</a></li>
-													<li><a href="#">Metal Beds</a></li>
-													<li><a href="#">Storage Beds</a></li>
-													<li><a href="#">Wooden Beds</a></li>
-													<li><a href="#">Children's Beds</a></li>
-												</ul>
-											</li>
-											<li><a href="#">Bedroom Sets</a></li>
-											<li><a href="#">Chests &amp; Dressers</a></li>
-										</ul>
-									</li>
-
-
-
-
-		
 		{% for link in site.data.navigation %}
 	    {% if link.url contains 'http' %}
 	        {% assign domain = '' %}

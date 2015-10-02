@@ -14,17 +14,17 @@ owner:
   bio:            "One website dedicated to PBL and CLIL"
   email:          info@rgroenbroek.nl
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        frankenrickclil
-  facebook:       frankenrickclil
-  pinterest:      frankenrickclil
-  github:         frankenrickclil
-  stackexchange:  frankenrickclil
-  linkedin:       frankenrickclil
-  instagram:      frankenrickclil
-  flickr:         frankenrickclil
-  tumblr:         frankenrickclil
+  twitter:        RickGroenbroek
+  facebook:       RickGroenbroek
+  pinterest:      groenbroekr
+  github:         RickGreenpants
+  stackexchange:  
+  linkedin:       
+  instagram:      rickgreenpants
+  flickr:         
+  tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +frankenrickclil
+  google_plus:    
 
 # Background image to be tiled on all pages
 background: 
