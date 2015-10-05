@@ -1,6 +1,6 @@
 title:            Task-based learning
 description:      Project based learning website-containing CLIL based exercises
-disqus_shortname: 
+disqus_shortname: rickgroenbroek
 reading_time:     true
 words_per_minute: 100
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
@@ -20,7 +20,7 @@ owner:
   github:         
   stackexchange:  
   linkedin:       
-  instagram:      rickgreenpants
+  instagram:      
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
