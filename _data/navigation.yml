@@ -6,8 +6,11 @@
 - title: Vocabulary training
   url: /vocabulary-training/  
 
-- title: Chatbox
-  url: /chatbox/
+#- title: Chatbox
+#  url: /chatbox/
 
-- title: External Link
-  url: http://leraar24.nl
+#- title: External Link
+#  url: http://leraar24.nl
+
+#- title: Enquête/survey
+#  url: /survey/

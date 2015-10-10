@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Documentation
-comments: false
+comments: true
 modified: 2015-09-26
 share: false
 ---
