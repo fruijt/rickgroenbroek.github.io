@@ -8,6 +8,7 @@ image:
 comments: true
 share: true 
 ---
+"There's a process for everything, and for everything there's a process"
 
 Here you will find the text which you have to read. After the text there will be a set of questions. We don't know whether there will be questions on the page, or in a separate file. Perhaps both, so that the students can put the answers on the separate sheet provided, which can and will be e-mailed to the teacher.
 
