@@ -8,7 +8,9 @@ image:
 comments: true
 share: true 
 ---
-Welcome! On this page you will find the task for what you have to do. For this webquest it will be a reading text. You will find the goals for this text/assignment on this page as well.
+Welcome! 
+
+On this page you will find the task for what you have to do. For this webquest it will be a reading text. You will find the goals for this text/assignment on this page as well.
 
 Good luck! Ciao!
 
