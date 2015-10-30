@@ -8,7 +8,11 @@ image:
 comments: true
 share: true 
 ---
+Evalua-what?!
 
+Every assignment/task should be evaluated. Why? Because your teacher needs to know what you thought of the task. Maybe it was amazing, or maybe you thought something could be better. Let us know!
+
+This page will also contain 
 
 
 
