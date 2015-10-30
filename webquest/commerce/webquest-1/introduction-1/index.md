@@ -13,7 +13,7 @@ Travelling. Going around the world. By bike, plane, car or train, anything is po
 
 Assignment one:  create a mindmap about everything that you can think of that has to do with travelling! You can use paint, word, or a website like mindmeister. Create the mindmap and send it to your teacher. Don't forget to add your name and class!
 
-Haven't got a clue what a mindmap is? <a href=www.mindmapping.com/nl>Click here!
+Haven't got a clue what a mindmap is? <a href=www.mindmapping.com/nl>Click here!</a>
 Done?
 
 Click the button below to go to the next page.
