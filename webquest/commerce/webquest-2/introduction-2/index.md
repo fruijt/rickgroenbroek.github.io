@@ -9,7 +9,7 @@ image:
 share: true
 comments: true
 ---
-Hello
+You and a few other students have the opurtunity to start your own business. To start with, you need to brainstorm about your target group. This means that 
 
 
 
