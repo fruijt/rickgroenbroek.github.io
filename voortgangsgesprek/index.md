@@ -12,7 +12,7 @@ creditlink: http://www.mosta2bal.com/vb/imgcache/3/28525wall.jpg
 <p style="text-align: right;">Voortgangsgesprek één - 17-11-2015</p>
 Beste examinatoren, panelleden,
 
-Op deze pagina vindt u alle documenten en teksten met betrekking tot het eerste voortgangsgesprek. U vraagt zich misschien wel af waarom alles op deze website staat. Dat heeft namelijk te maken met het feit dat mijn praktijkonderzoek over task-based learning gaan. Hieronder vindt u daar meer onder. Als u wilt mag u natuurlijk even rond klikken op de website. Hij is echter nog lang niet af! Via de knop links-boven opent u het menu.
+Op deze pagina vindt u alle documenten en teksten met betrekking tot het eerste voortgangsgesprek. U vraagt zich misschien wel af waarom alles op deze website staat. Dat heeft namelijk te maken met het feit dat mijn praktijkonderzoek over task-based learning gaan. Hieronder vindt u daar meer onder. Als u wilt mag u natuurlijk even rond klikken op de website. Hij is echter nog lang niet af! Via de knop links-boven opent u het menu. Voor de veiligheid en privacygevoeligheid is deze pagina niet in het menu te vinden. U kunt op deze pagina terug komen door op de link in de mail te klikken, of naar rgroenbroek.nl/voortgangsgesprek te gaan.
 
 <br>
 
