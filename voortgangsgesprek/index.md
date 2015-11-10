@@ -30,6 +30,6 @@ Onder de oriëntatie beroepsproduct/praktijkonderzoek staan twee lijsten met doc
 
 <br>
 
-<iframe src="https://drive.google.com/embeddedfolderview?id=0B0C_yZ9biCCzRjRwRUxLeEtXMnc#list" width="650" height="350" frameborder="0"></iframe>
+<iframe src="https://drive.google.com/embeddedfolderview?id=0B0C_yZ9biCCzRjRwRUxLeEtXMnc#list" width="650" height="450" frameborder="0"></iframe>
 
 <iframe src="https://drive.google.com/embeddedfolderview?id=0BycjBNS3AKDWWEt0S04zNDdRbnc#list" width="650" height="250" frameborder="0"></iframe>
