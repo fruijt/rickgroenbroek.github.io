@@ -16,6 +16,10 @@ Op deze pagina vindt u alle documenten en teksten met betrekking tot het eerste 
 
 <br>
 
+Onder de oriëntatie beroepsproduct/praktijkonderzoek staan twee lijsten met documenten. De eerste bevat allerlei documenten met betrekking tot het voortgangsgesprek. De tweede lijst bevat documenten van de stage van jaar 3. Hierin zijn onder andere de beoordelingen jaar 3 opgenomen.
+
+<br>
+
 <b>Oriëntatie beroepsproduct</b>
 <p>Voor het beroepsproduct "geplande interventie" wil ik gebruik maken van de situatie in een niveau 3 klas. Zoals de werkplekbegeleider, dhr. M. Vissers, aangeeft in zijn eerste functioneringsverslag verlopen de lessen nog niet vlekkeloos, omdat ik in het begin niet direct mensen eruit stuurde. Iemand uit de les sturen wil ik zelf niet als een snelle sanctie gebruiken, maar door positief gedrag te stimuleren en op een positieve wijze studenten te corrigeren wil ik een bepaalde groep studenten aan het werk krijgen. Nu beïnvloeden ze de les negatief.</p>
 
